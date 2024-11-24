@@ -1,0 +1,75 @@
+:: StoryTitle
+Crossroads
+
+
+:: StoryData
+{
+  "ifid": "88D59FAA-B587-48D9-A6A6-AF816FE1F091",
+  "format": "Harlowe",
+  "format-version": "3.3.9",
+  "start": "Root",
+  "zoom": 1
+}
+
+
+:: Combining Interests {"position":"1500,500","size":"100,100"}
+In your search for Nursing and Pychology programs you found that UVIC offers a 
+
+[[Computer Scince and Psycology Duel Degree]]
+
+
+:: Computer Scince and Psycology Duel Degree {"position":"1500,700","size":"100,100"}
+you decide to combine your passion for technology with your growing interest in understanding human behavior. Rather than transferring fully into Psychology, you explore ways to integrate it with your Computer Science studies, opening up exciting interdisciplinary opportunities.
+
+
+:: Create Meaningful Projects {"position":"700,700","size":"100,100"}
+You’ve always loved video games—they’ve been a constant source of joy and inspiration in your life. You admire how they combine creativity, storytelling, and technical skill to create immersive experiences. Deep down, you’ve always wanted to learn how to create them, to be a part of bringing that magic to life. So, to reignite your passion for Computer Science, you decide to start small: coding a simple clone of Pong.
+
+
+:: Look to transfer to another program {"position":"1300,300","size":"100,100"}
+The doubts become too loud to ignore, and you decide it’s time for a change. After reflecting on your options you send out applications for;
+
+[[Nursing]]
+
+[[Psycology]]
+
+[[Combining Interests]]
+
+
+:: Networking {"position":"900,700","size":"100,100"}
+In order to reduce isolation and you reachYou know that pursuing your passion for video games and Computer Science can’t happen in isolation—you need to connect with others who share your interests and can help guide your journey. Networking becomes a priority, and you start looking for opportunities to meet like-minded people. You join a campus game development club, where you meet students who are just as passionate about creating games as you are
+
+
+:: Nursing {"position":"1300,500","size":"100,100"}
+you explore transferring to Nursing, a field that appeals to you for its stability, hands-on impact, and potential to help people in immediate, meaningful ways. The idea of becoming a caregiver fills you with a sense of purpose.
+
+
+
+
+
+
+:: Psycology {"position":"1100,500","size":"100,100"}
+you explore transferring to Psychology, a field that fascinates you with its focus on understanding the human mind and behavior. You see it as an opportunity to combine academic study with a personal journey of self-discovery and helping others.
+
+
+
+
+
+
+
+:: Push Through, stick with the current degree {"position":"900,500","size":"100,100"}
+You decide to stick with Computer Science, but not just to finish your degree—you want to rediscover why you started. The path ahead feels daunting, but the choice to stay fills you with determination. You realize that to break out of the lull, you need to take proactive steps to reignite your passion and find new purpose. Two ideas come to mind immediately: creating meaningful projects that excite you and building a network of like-minded peers and mentors who can inspire and guide you. 
+
+[[Create Meaningful Projects]]
+
+[[Networking]]
+
+
+
+
+:: Root {"position":"900,300","size":"100,100"}
+The cursor blinks on a half-finished assignment, but your mind is elsewhere. Three years ago, when you were applying to universities, you couldn’t decide what path to take. Computer Science seemed like a safe choice, but you also applied to programs in Nursing, Psychology, and others that felt just as appealing at the time. Now, in your third year, you’re starting to wonder—did you make the right choice? Would Nursing have given you a more stable future? Would Psychology have been more fulfilling? The possibilities still tug at you, but so does the weight of three years of work. Is it too late to change course, or should you just keep moving forward and hope for the best? The doubt lingers, just like the blinking cursor on your screen 
+
+[[Push Through, stick with the current degree]]
+
+[[Look to transfer to another program]]
